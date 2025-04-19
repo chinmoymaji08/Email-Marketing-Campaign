@@ -15,23 +15,23 @@ b. email_opened_table - Email IDs where users opened the email
 c. link_clicked_table - Email IDs where users clicked a link inside the email
 
 # Questions Answered
-1. Email Performance
+Email Performance -
 
 a. What % of users opened the email?
 
 b. What % of users clicked on the link?
 
-2. Predictive Modeling
+Predictive Modeling -
 
 a. Can we predict the likelihood of a user clicking on a link?
 
 b. Can we improve overall CTR using a model?
 
-3.Model Impact
+Model Impact -
 
 a. How much does the model improve CTR when we target top users?
 
-4. Segment Analysis
+Segment Analysis -
 
 a. How did the campaign perform across different:
 Email types (short/long)
