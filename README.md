@@ -9,9 +9,12 @@ b. Build a model to predict click probability
 c. Improve future Click-Through Rates (CTR) by targeting users more effectively
 
 # Dataset Overview
-Table Name and Description
+Table Name and Description - 
+
 a. email_table - Base data for all sent emails, including user info and campaign details
+
 b. email_opened_table - Email IDs where users opened the email
+
 c. link_clicked_table - Email IDs where users clicked a link inside the email
 
 # Questions Answered
