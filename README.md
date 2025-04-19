@@ -17,35 +17,29 @@ c. link_clicked_table - Email IDs where users clicked a link inside the email
 # Questions Answered
 1. Email Performance
 
-  a. What % of users opened the email?
+a. What % of users opened the email?
 
-  b. What % of users clicked on the link?
+b. What % of users clicked on the link?
 
 2. Predictive Modeling
 
-  a. Can we predict the likelihood of a user clicking on a link?
+a. Can we predict the likelihood of a user clicking on a link?
 
-  b. Can we improve overall CTR using a model?
+b. Can we improve overall CTR using a model?
 
 3.Model Impact
 
-  a. How much does the model improve CTR when we target top users?
+a. How much does the model improve CTR when we target top users?
 
 4. Segment Analysis
 
-  a. How did the campaign perform across different:
-
-   Email types (short/long)
-
-   Versions (personalized/generic)
-
-   Hours of the day
-
-   Weekdays
-
-   User countries
-
-   Purchase history
+a. How did the campaign perform across different:
+Email types (short/long)
+Versions (personalized/generic)
+Hours of the day
+Weekdays
+User countries
+Purchase history
 
 # Final Outcome
 This project demonstrates how data science can empower marketing decisions:
